@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0d,100:dc2626&height=220&section=header&text=Paduka%20Kyuu&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20%26%20Web%20Scraping%20Developer&descAlignY=58&descSize=18" width="100%"/>
+# Paduka Kyuu
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Web+Scraping+%7C+Automation+%7C+Bot+Development" alt="Typing SVG" />
 
@@ -8,7 +8,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kyuuXzry&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/kyuuXzry?label=FOLLOWERS&style=for-the-badge&color=dc2626)](https://github.com/kyuuXzry)
-[![Stars](https://img.shields.io/badge/dynamic/json?color=dc2626&style=for-the-badge&label=TOTAL%20STARS&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FkyuuXzry%2Frepos)](https://github.com/kyuuXzry?tab=repositories)
 
 </div>
 
@@ -70,6 +69,8 @@ Junior developer dengan fokus utama di **Web Scraping** dan **Automation**. Memb
 
 <div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628567126744)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizki-handayani-22068538b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rissxzry_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzkhandayni.id@gmail.com)
 [![Website](https://img.shields.io/badge/Website-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kyuudev.my.id)
@@ -79,5 +80,3 @@ Junior developer dengan fokus utama di **Web Scraping** dan **Automation**. Memb
 <div align="center">
 <sub>Banten, Indonesia</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:0a0a0d&height=100&section=footer" width="100%"/>
