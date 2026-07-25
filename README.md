@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=650&lines=Rizki+Handayani;Automation+%26+Web+Scraping+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=650&lines=Paduka+kyuu;Automation+%26+Web+Scraping+Developer" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kyuuXzry&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/kyuuXzry?label=FOLLOWERS&style=for-the-badge&color=dc2626)](https://github.com/kyuuXzry)
