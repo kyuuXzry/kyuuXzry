@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=220&section=header&text=Paduka%20Kyuu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://l.top4top.io/p_3859mtw920.jpg" width="100%"/>
+
+<h1 align="center">Paduka Kyuu</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Web+Scraping+%7C+Automation+%7C+Bot+Development" alt="Typing SVG" />
 
@@ -60,36 +62,7 @@ Junior developer dengan fokus utama di **Web Scraping** dan **Automation**. Memb
 ## GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&theme=dark&hide_border=true&background=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=compact&theme=dark&hide_border=true&background=0d1117&title_color=dc2626&text_color=c9d1d9" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyuuXzry&theme=dark&hide_border=true&background=0d1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyuuXzry&theme=react-dark&bg_color=0d1117&color=dc2626&line=dc2626&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kyuuXzry/kyuuXzry/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<sub>*(Snake ini otomatis ke-generate lewat GitHub Actions — lihat instruksi setup di bawah)*</sub>
-
-<br/>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kyuuXzry&theme=dracula&no-frame=true&row=1&column=6&margin-w=8"/>
-
 </div>
 
 <br/>
@@ -110,4 +83,4 @@ Junior developer dengan fokus utama di **Web Scraping** dan **Automation**. Memb
 <sub>Banten, Indonesia</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=100&section=footer" width="100%"/>
+<hr/>
