@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0d,100:dc2626&height=220&section=header&text=Paduka%20Kyuu&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20%26%20Web%20Scraping%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://l.top4top.io/p_3859mtw920.jpg" width="100%"/>
+
+<h1 align="center">Paduka Kyuu</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Web+Scraping+%7C+Automation+%7C+Bot+Development" alt="Typing SVG" />
 
@@ -81,4 +83,4 @@ Junior developer dengan fokus utama di **Web Scraping** dan **Automation**. Memb
 <sub>Banten, Indonesia</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:0a0a0d&height=100&section=footer" width="100%"/>
+<hr/>
