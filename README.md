@@ -155,7 +155,7 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 <br/><br/>
 
 <a href="https://github.com/kyuuXzry?tab=repositories">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyuuXzry&theme=nord_dark" />
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyuuXzry&theme=tokyonight" />
 </a>
 
 <br/><br/>
@@ -164,20 +164,47 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <h2><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%238FA9CC" width="26" align="center"/>&nbsp;GitHub Analytics</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0F172A&title_color=8FA9CC&icon_color=7C9CC4&text_color=A5B4CB&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=compact&hide_border=true&bg_color=0F172A&title_color=8FA9CC&text_color=A5B4CB" />
+<sub><b>STATS &amp; TOP LANGUAGES</b></sub>
 
-<br/>
+<table align="center">
+<tr>
+<td align="center" valign="middle">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0F172A&title_color=8FA9CC&icon_color=7C9CC4&text_color=A5B4CB&ring_color=4A6FA5&rank_icon=github&include_all_commits=true&count_private=true" />
+</td>
+<td align="center" valign="middle">
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0F172A&title_color=8FA9CC&text_color=A5B4CB&hide=html,css" />
+</td>
+</tr>
+</table>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kyuuXzry&theme=dark&hide_border=true&background=0F172A&ring=4A6FA5&fire=7C9CC4&currStreakLabel=8FA9CC&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=A5B4CB&dates=64748B" />
+<sub><b>CONTRIBUTION STREAK</b></sub>
 
-<br/>
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=kyuuXzry&theme=dark&hide_border=true&background=0F172A&ring=4A6FA5&fire=7C9CC4&currStreakLabel=8FA9CC&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=A5B4CB&dates=64748B" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kyuuXzry&bg_color=0F172A&color=8FA9CC&line=4A6FA5&point=E2E8F0&area=true&area_color=334E78&hide_border=true" />
+<br/><br/>
 
-<br/>
+<sub><b>CODING HABITS</b></sub>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=kyuuXzry&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<table align="center">
+<tr>
+<td align="center">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyuuXzry&theme=tokyonight" />
+</td>
+<td align="center">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyuuXzry&theme=tokyonight&utcOffset=7" />
+</td>
+</tr>
+</table>
+
+<sub><b>CONTRIBUTION ACTIVITY</b></sub>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kyuuXzry&bg_color=0F172A&color=8FA9CC&line=4A6FA5&point=E2E8F0&area=true&area_color=334E78&hide_border=true&custom_title=Contribution%20Graph" />
+
+<br/><br/>
+
+<sub><b>TROPHIES</b></sub>
+
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=kyuuXzry&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" />
 
 <br/><br/>
 
