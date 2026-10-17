@@ -1,267 +1,158 @@
 <div align="center">
 
-<img src="https://l.top4top.io/p_3859mtw920.jpg" width="100%" alt="Paduka Kyuu Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7F1D1D,100:DC2626&height=220&section=header&text=PADUKA%20KYUU&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=14&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=650&lines=Web+Scraping+%26+Data+Extraction;REST+API+Development;UI%2FUX+%26+Full-Stack+Development;Automation+%26+Bot+Development" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Paduka+Kyuu;Web+Scraping+%26+Data+Extraction;REST+API+Development;UI%2FUX+%26+Full-Stack+Development;Automation+%26+Bot+Development" alt="Typing SVG"/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kyuuXzry&style=flat-square&color=DC2626&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://github.com/kyuuXzry?tab=followers">
-    <img src="https://img.shields.io/github/followers/kyuuXzry?style=flat-square&color=DC2626&label=FOLLOWERS" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/kyuuXzry?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-Explore-181717?style=flat-square&logo=github" alt="Public Repositories"/>
-  </a>
-</p>
-
-<h3>Building Ideas Into Digital Experiences.</h3>
-
-<p>
-  Developer focused on scraping, APIs, automation, modern interfaces, and full-stack web development.
-</p>
+<br/>
 
 <a href="https://github.com/kyuuXzry">
-  <img src="https://img.shields.io/badge/GitHub-kyuuXzry-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-kyuuXzry-DC2626?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a href="https://kyuudev.my.id">
-  <img src="https://img.shields.io/badge/Website-Visit%20My%20Site-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+<img src="https://komarev.com/ghpvc/?username=kyuuXzry&style=flat-square&color=DC2626&label=PROFILE+VIEWS"/>
+<a href="https://github.com/kyuuXzry?tab=followers">
+  <img src="https://img.shields.io/github/followers/kyuuXzry?style=flat-square&color=DC2626&label=FOLLOWERS"/>
+</a>
+<a href="https://github.com/kyuuXzry?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repos-Explore-DC2626?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## `$ whoami`
+## `whoami`
 
-```javascript
+```js
 const kyuu = {
-  name: "Paduka Kyuu",
-  username: "kyuuXzry",
-  location: "Banten, Indonesia",
-  role: "Developer",
-  interests: [
-    "Web Scraping",
-    "REST API Development",
-    "UI/UX Design",
-    "Full-Stack Development",
-    "Automation",
-    "Bot Development",
-    "Artificial Intelligence"
-  ],
-  currentlyLearning: ["AI", "Backend Development"],
-  motto: "Turning ideas into functional digital products."
+    name: "Paduka Kyuu",
+    role: "Developer",
+    location: "Banten, Indonesia",
+    focus: [
+        "Web Scraping",
+        "REST API",
+        "UI/UX Design",
+        "Full-Stack Development",
+        "Automation"
+    ],
+    currentlyLearning: ["AI", "Backend Development"],
+    motto: "Build something useful. Make it better."
 };
-
-console.log("Building something new...");
 ```
 
-## `$ cat about.txt`
+## `// What I Do`
 
-I'm a developer interested in building practical tools, automated systems, APIs, and modern web applications.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My main interests include extracting and processing web data, developing REST APIs, creating responsive user interfaces, and building automation tools that simplify repetitive tasks.
+### ⚡ Web Scraping
+Extracting and processing website data using automated tools and scraping techniques.
 
-I enjoy exploring new technologies, experimenting with different approaches, and continuously improving my development skills.
+</td>
+<td width="50%" valign="top">
 
----
+### 🔌 REST API
+Building API services, handling requests, processing responses, and connecting applications.
 
-## `$ ls skills/`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🎨 UI/UX & Web Design
+Creating clean, responsive interfaces with a focus on usability and performance.
 
-### ◈ Core Expertise
+</td>
+<td width="50%" valign="top">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/API">
-  <img src="https://img.shields.io/badge/WEB%20SCRAPING-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Scraping"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">
-  <img src="https://img.shields.io/badge/REST%20API-991B1B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-</a>
-<a href="https://www.figma.com/">
-  <img src="https://img.shields.io/badge/UI%2FUX%20DESIGN-7C3AED?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn_web_development">
-  <img src="https://img.shields.io/badge/FULL--STACK%20WEB-2563EB?style=for-the-badge&logo=webcomponents.org&logoColor=white" alt="Full-Stack Development"/>
-</a>
-<a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/AUTOMATION-0891B2?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation"/>
-</a>
-<a href="https://github.com/WhiskeySockets/Baileys">
-  <img src="https://img.shields.io/badge/BOT%20DEVELOPMENT-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Development"/>
-</a>
+### 🤖 Automation
+Developing automation tools and WhatsApp/Telegram integrations to simplify repetitive tasks.
 
-</div>
+</td>
+</tr>
+</table>
 
-### What I Build
-
-| Field | Focus |
-|:--|:--|
-| Web Scraping | Website data extraction, parsing, and automated data collection |
-| REST API | HTTP requests, JSON responses, endpoints, and API integrations |
-| UI/UX Design | Responsive layouts, interface design, usability, and user experience |
-| Full-Stack Development | Building web applications across frontend and backend |
-| Automation | Scripts and workflows for repetitive tasks |
-| Bot Development | WhatsApp integrations, commands, and automated responses |
-| AI Exploration | Exploring AI tools, models, and development workflows |
-
----
-
-## `$ cat tech-stack.json`
+## `// Tech Stack`
 
 <div align="center">
 
-### Languages
+### Languages & Runtime
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</a>
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css&theme=dark" />
 
-### Backend & APIs
+### Scraping & Development
 
-<a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">
-  <img src="https://img.shields.io/badge/REST%20API-DC2626?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-</a>
-<a href="https://www.json.org/">
-  <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-</a>
-
-### Web Scraping & Automation
-
-<a href="https://pptr.dev/">
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
-</a>
-<a href="https://playwright.dev/">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-</a>
-<a href="https://cheerio.js.org/">
-  <img src="https://img.shields.io/badge/Cheerio-E88C1F?style=for-the-badge&logoColor=white" alt="Cheerio"/>
-</a>
-<a href="https://axios-http.com/">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
-</a>
-<a href="https://www.selenium.dev/">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-</a>
-
-### Frontend & UI/UX
-
-<a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</a>
-<a href="https://www.figma.com/">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</a>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-DC2626?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 
 ### Tools & Platforms
 
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel&theme=dark" />
+
+</div>
+
+## `// Featured Project`
+
+<div align="center">
+
+<a href="https://github.com/kyuuXzry/CAPCUT-DOWNLOADER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuuXzry&repo=CAPCUT-DOWNLOADER&theme=transparent&hide_border=true&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9"/>
 </a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<br/>
+
+<a href="https://github.com/kyuuXzry/CAPCUT-DOWNLOADER">
+  <img src="https://img.shields.io/github/stars/kyuuXzry/CAPCUT-DOWNLOADER?style=flat-square&color=DC2626&logo=github&label=Stars"/>
 </a>
-<a href="https://www.cloudflare.com/">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-</a>
-<a href="https://vercel.com/">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<a href="https://github.com/kyuuXzry/CAPCUT-DOWNLOADER/forks">
+  <img src="https://img.shields.io/github/forks/kyuuXzry/CAPCUT-DOWNLOADER?style=flat-square&color=DC2626&logo=github&label=Forks"/>
 </a>
 
 </div>
 
----
-
-## `$ git status`
+## `// GitHub Analytics`
 
 <div align="center">
 
-<a href="https://github.com/kyuuXzry?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9&rank_icon=github" />
 
-<br><br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" />
 
-<a href="https://github.com/kyuuXzry?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&rank_icon=github" height="165" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/kyuuXzry?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF" height="165" alt="Top Languages"/>
-</a>
+<br/>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyuuXzry&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=FFFFFF&dates=888888" width="80%" alt="GitHub Streak Stats"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kyuuXzry&theme=dark&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626"/>
 
 </div>
 
----
-
-## `$ connect --with kyuu`
+## `// Connect With Me`
 
 <div align="center">
 
+<a href="https://kyuudev.my.id">
+  <img src="https://img.shields.io/badge/Website-kyuudev.my.id-DC2626?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://wa.me/628567126744">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="https://www.linkedin.com/in/rizki-handayani-22068538b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </a>
 <a href="https://instagram.com/rissxzry_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/rizki-handayani-22068538b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rzkhandayni.id@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://kyuudev.my.id">
-  <img src="https://img.shields.io/badge/Website-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<sub>📍 Banten, Indonesia</sub>
+*Building ideas into something real.*
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC2626&height=2" width="100%"/>
-
-<br>
-
-### "Code. Create. Automate. Repeat."
-
-Building useful things, one project at a time.
-
-<br>
-
-<a href="https://github.com/kyuuXzry">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-kyuuXzry-181717?style=for-the-badge&logo=github&logoColor=white" alt="Thanks for Visiting"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F1D1D,100:DC2626&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:0D0D0D&height=100&section=footer" width="100%"/>
 
 </div>
