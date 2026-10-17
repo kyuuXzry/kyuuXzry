@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/BASED%20IN-BANTEN%2C%20ID-4A6FA5?style=for-the-badge&logo=googlemaps&logoColor=E2E8F0&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/LEARNING-AI%20%2B%20BACKEND-5B7FB0?style=for-the-badge&logo=openai&logoColor=E2E8F0&labelColor=0F172A"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/kyuuXzry">
   <img src="https://img.shields.io/badge/GitHub-kyuuXzry-3E5C8A?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=0F172A"/>
@@ -22,11 +22,19 @@
   <img src="https://img.shields.io/github/followers/kyuuXzry?style=for-the-badge&color=3E5C8A&labelColor=0F172A&label=FOLLOWERS&logo=github"/>
 </a>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4A6FA5,100:0F172A&height=2" width="100%"/>
+
 </div>
 
----
+<br/>
 
-## <img src="https://api.iconify.design/lucide:terminal.svg?color=%238FA9CC" width="24" align="center"/> `whoami`
+<div align="center">
+
+<h2><img src="https://api.iconify.design/lucide:terminal.svg?color=%238FA9CC" width="26" align="center"/>&nbsp;About Me</h2>
+
+</div>
 
 ```js
 const kyuu = {
@@ -45,49 +53,73 @@ const kyuu = {
 };
 ```
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%238FA9CC" width="24" align="center"/> `what_i_do`
+<br/>
 
-<table>
+<div align="center">
+
+<h2><img src="https://api.iconify.design/lucide:layers.svg?color=%238FA9CC" width="26" align="center"/>&nbsp;What I Do</h2>
+
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### <img src="https://api.iconify.design/lucide:zap.svg?color=%237C9CC4" width="22" align="center"/> Web Scraping
+<img src="https://api.iconify.design/lucide:zap.svg?color=%237C9CC4" width="34"/>
+
+**Web Scraping**
+
 Extracting and processing website data using automated tools and scraping techniques.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### <img src="https://api.iconify.design/lucide:plug.svg?color=%237C9CC4" width="22" align="center"/> REST API
+<img src="https://api.iconify.design/lucide:plug.svg?color=%237C9CC4" width="34"/>
+
+**REST API**
+
 Building API services, handling requests, processing responses, and connecting applications.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### <img src="https://api.iconify.design/lucide:palette.svg?color=%237C9CC4" width="22" align="center"/> UI/UX & Web Design
+<img src="https://api.iconify.design/lucide:palette.svg?color=%237C9CC4" width="34"/>
+
+**UI/UX & Web Design**
+
 Creating clean, responsive interfaces with a focus on usability and performance.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### <img src="https://api.iconify.design/lucide:bot.svg?color=%237C9CC4" width="22" align="center"/> Automation
+<img src="https://api.iconify.design/lucide:bot.svg?color=%237C9CC4" width="34"/>
+
+**Automation**
+
 Developing automation tools and WhatsApp/Telegram integrations to simplify repetitive tasks.
 
 </td>
 </tr>
 </table>
 
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%238FA9CC" width="24" align="center"/> `tech_stack`
+<br/>
 
 <div align="center">
 
-**Languages & Runtime**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4A6FA5,100:0F172A&height=2" width="100%"/>
 
+<h2><img src="https://api.iconify.design/lucide:wrench.svg?color=%238FA9CC" width="26" align="center"/>&nbsp;Tech Stack</h2>
+
+<sub><b>LANGUAGES &amp; RUNTIME</b></sub>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css&theme=dark" />
 
-**Scraping & Development**
+<br/><br/>
 
+<sub><b>SCRAPING &amp; DEVELOPMENT</b></sub>
+<br/><br/>
 <img src="https://img.shields.io/badge/Puppeteer-3E5C8A?style=for-the-badge&logo=puppeteer&logoColor=E2E8F0&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/Playwright-3E5C8A?style=for-the-badge&logo=playwright&logoColor=E2E8F0&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/Cheerio-3E5C8A?style=for-the-badge&logoColor=E2E8F0&labelColor=0F172A"/>
@@ -95,18 +127,20 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 <img src="https://img.shields.io/badge/REST%20API-3E5C8A?style=for-the-badge&logo=fastapi&logoColor=E2E8F0&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/JSON-3E5C8A?style=for-the-badge&logo=json&logoColor=E2E8F0&labelColor=0F172A"/>
 
-**Tools & Platforms**
+<br/><br/>
 
+<sub><b>TOOLS &amp; PLATFORMS</b></sub>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel&theme=dark" />
 
-</div>
+<br/><br/>
 
-## <img src="https://api.iconify.design/lucide:folder-open.svg?color=%238FA9CC" width="24" align="center"/> `my_repositories`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4A6FA5,100:0F172A&height=2" width="100%"/>
 
-<div align="center">
+<h2><img src="https://api.iconify.design/lucide:folder-open.svg?color=%238FA9CC" width="26" align="center"/>&nbsp;My Repositories</h2>
 
 <a href="https://github.com/kyuuXzry?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=7C9CC4&center=true&vCenter=true&width=600&lines=Semua+project+gue+ada+di+sini;Scraper%2C+API%2C+Bot%2C+dan+lainnya;Klik+tombol+di+bawah" alt="Repo typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=7C9CC4&center=true&vCenter=true&width=600&height=35&lines=Semua+project+gue+ada+di+sini;Scraper%2C+API%2C+Bot%2C+dan+lainnya;Klik+tombol+di+bawah" alt="Repo typing"/>
 </a>
 
 <br/>
@@ -124,11 +158,11 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
   <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyuuXzry&theme=nord_dark" />
 </a>
 
-</div>
+<br/><br/>
 
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%238FA9CC" width="24" align="center"/> `github_analytics`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4A6FA5,100:0F172A&height=2" width="100%"/>
 
-<div align="center">
+<h2><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%238FA9CC" width="26" align="center"/>&nbsp;GitHub Analytics</h2>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0F172A&title_color=8FA9CC&icon_color=7C9CC4&text_color=A5B4CB&rank_icon=github" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=compact&hide_border=true&bg_color=0F172A&title_color=8FA9CC&text_color=A5B4CB" />
@@ -145,11 +179,11 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=kyuuXzry&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
-</div>
+<br/><br/>
 
-## <img src="https://api.iconify.design/lucide:send.svg?color=%238FA9CC" width="24" align="center"/> `connect_with_me`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4A6FA5,100:0F172A&height=2" width="100%"/>
 
-<div align="center">
+<h2><img src="https://api.iconify.design/lucide:send.svg?color=%238FA9CC" width="26" align="center"/>&nbsp;Connect With Me</h2>
 
 <a href="https://kyuudev.my.id">
   <img src="https://img.shields.io/badge/Website-kyuudev.my.id-3E5C8A?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0&labelColor=0F172A"/>
@@ -169,7 +203,7 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=A5B4CB&center=true&vCenter=true&width=450&lines=Building+ideas+into+something+real." alt="footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=A5B4CB&center=true&vCenter=true&width=450&height=30&lines=Building+ideas+into+something+real." alt="footer typing"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A6FA5,55:1E3354,100:0F172A&height=120&section=footer&animation=twinkling" width="100%"/>
 
