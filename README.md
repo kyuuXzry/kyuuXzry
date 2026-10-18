@@ -114,7 +114,11 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <sub><b>LANGUAGES &amp; RUNTIME</b></sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/JavaScript-3E5C8A?style=for-the-badge&logo=javascript&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Node.js-3E5C8A?style=for-the-badge&logo=nodedotjs&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Python-3E5C8A?style=for-the-badge&logo=python&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/HTML5-3E5C8A?style=for-the-badge&logo=html5&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/CSS3-3E5C8A?style=for-the-badge&logo=css3&logoColor=E2E8F0&labelColor=0F172A"/>
 
 <br/><br/>
 
@@ -122,16 +126,44 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 <br/><br/>
 <img src="https://img.shields.io/badge/Puppeteer-3E5C8A?style=for-the-badge&logo=puppeteer&logoColor=E2E8F0&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/Playwright-3E5C8A?style=for-the-badge&logo=playwright&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Cheerio-3E5C8A?style=for-the-badge&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Cheerio-3E5C8A?style=for-the-badge&logo=cheerio&logoColor=E2E8F0&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/Axios-3E5C8A?style=for-the-badge&logo=axios&logoColor=E2E8F0&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/REST%20API-3E5C8A?style=for-the-badge&logo=fastapi&logoColor=E2E8F0&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/JSON-3E5C8A?style=for-the-badge&logo=json&logoColor=E2E8F0&labelColor=0F172A"/>
 
 <br/><br/>
 
+<sub><b>BOT &amp; AUTOMATION</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Baileys-3E5C8A?style=for-the-badge&logo=whatsapp&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Telegram-3E5C8A?style=for-the-badge&logo=telegram&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Termux-3E5C8A?style=for-the-badge&logo=termux&logoColor=E2E8F0&labelColor=0F172A"/>
+
+<br/><br/>
+
 <sub><b>TOOLS &amp; PLATFORMS</b></sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel&theme=dark" />
+<img src="https://img.shields.io/badge/Git-3E5C8A?style=for-the-badge&logo=git&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/GitHub-3E5C8A?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Cloudflare-3E5C8A?style=for-the-badge&logo=cloudflare&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Vercel-3E5C8A?style=for-the-badge&logo=vercel&logoColor=E2E8F0&labelColor=0F172A"/>
+
+<br/><br/>
+
+<sub><b>LEARNING NEXT</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/AI-1E3354?style=for-the-badge&logo=openai&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Backend-1E3354?style=for-the-badge&logo=nodedotjs&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/TypeScript-1E3354?style=for-the-badge&logo=typescript&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Go-1E3354?style=for-the-badge&logo=go&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Rust-1E3354?style=for-the-badge&logo=rust&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Kotlin-1E3354?style=for-the-badge&logo=kotlin&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/PHP-1E3354?style=for-the-badge&logo=php&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Laravel-1E3354?style=for-the-badge&logo=laravel&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Ruby-1E3354?style=for-the-badge&logo=ruby&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/C-1E3354?style=for-the-badge&logo=c&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Swift-1E3354?style=for-the-badge&logo=swift&logoColor=E2E8F0&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Solidity-1E3354?style=for-the-badge&logo=solidity&logoColor=E2E8F0&labelColor=0F172A"/>
 
 <br/><br/>
 
