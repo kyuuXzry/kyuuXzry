@@ -113,35 +113,32 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 <h2><img src="https://api.iconify.design/lucide:wrench.svg?color=%23A3A3A3" width="26" align="center"/>&nbsp;Tech Stack</h2>
 
 <sub><b>LANGUAGES &amp; RUNTIME</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" alt="Node.js" title="Node.js"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" title="Python"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css/1572B6" width="40" height="40" alt="CSS" title="CSS"/>
 
-<table align="center">
-<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/javascript/A3A3A3" width="38" height="38" alt="JavaScript"/><br/><sub>JavaScript</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/nodedotjs/A3A3A3" width="38" height="38" alt="Node.js"/><br/><sub>Node.js</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/python/A3A3A3" width="38" height="38" alt="Python"/><br/><sub>Python</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/html5/A3A3A3" width="38" height="38" alt="HTML5"/><br/><sub>HTML5</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/css3/A3A3A3" width="38" height="38" alt="CSS3"/><br/><sub>CSS3</sub></td></tr>
-</table>
+<br/><br/>
 
 <sub><b>SCRAPING &amp; DEVELOPMENT</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="40" height="40" alt="Puppeteer" title="Puppeteer"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/axios/5A29E4" width="40" height="40" alt="Axios" title="Axios"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/json/E2E8F0" width="40" height="40" alt="JSON" title="JSON"/>&nbsp;&nbsp;<img src="https://api.iconify.design/lucide:webhook.svg?color=%23E2E8F0" width="40" height="40" alt="REST API" title="REST API"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" title="Playwright"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square" alt="Cheerio" title="Cheerio"/>
 
-<table align="center">
-<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/puppeteer/A3A3A3" width="38" height="38" alt="Puppeteer"/><br/><sub>Puppeteer</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/playwright/A3A3A3" width="38" height="38" alt="Playwright"/><br/><sub>Playwright</sub></td><td align="center" width="90"><img src="https://api.iconify.design/lucide:file-code-2.svg?color=%23A3A3A3" width="38" height="38" alt="Cheerio"/><br/><sub>Cheerio</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/axios/A3A3A3" width="38" height="38" alt="Axios"/><br/><sub>Axios</sub></td><td align="center" width="90"><img src="https://api.iconify.design/lucide:webhook.svg?color=%23A3A3A3" width="38" height="38" alt="REST API"/><br/><sub>REST API</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/json/A3A3A3" width="38" height="38" alt="JSON"/><br/><sub>JSON</sub></td></tr>
-</table>
+<br/><br/>
 
 <sub><b>BOT &amp; AUTOMATION</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="Baileys (WhatsApp)" title="Baileys (WhatsApp)"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram" title="Telegram"/>&nbsp;&nbsp;<img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23E2E8F0" width="40" height="40" alt="Termux" title="Termux"/>
 
-<table align="center">
-<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/whatsapp/A3A3A3" width="38" height="38" alt="Baileys"/><br/><sub>Baileys</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/telegram/A3A3A3" width="38" height="38" alt="Telegram"/><br/><sub>Telegram</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/termux/A3A3A3" width="38" height="38" alt="Termux"/><br/><sub>Termux</sub></td></tr>
-</table>
+<br/><br/>
 
 <sub><b>TOOLS &amp; PLATFORMS</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" title="Git"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/FAFAFA" width="40" height="40" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" alt="Cloudflare" title="Cloudflare"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vercel/FAFAFA" width="40" height="40" alt="Vercel" title="Vercel"/>
 
-<table align="center">
-<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/git/A3A3A3" width="38" height="38" alt="Git"/><br/><sub>Git</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/github/A3A3A3" width="38" height="38" alt="GitHub"/><br/><sub>GitHub</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/cloudflare/A3A3A3" width="38" height="38" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/vercel/A3A3A3" width="38" height="38" alt="Vercel"/><br/><sub>Vercel</sub></td></tr>
-</table>
+<br/><br/>
 
 <sub><b>LEARNING NEXT</b></sub>
-
-<table align="center">
-<tr><td align="center" width="90"><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A3A3A3" width="38" height="38" alt="AI"/><br/><sub>AI</sub></td><td align="center" width="90"><img src="https://api.iconify.design/lucide:server.svg?color=%23A3A3A3" width="38" height="38" alt="Backend"/><br/><sub>Backend</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/typescript/A3A3A3" width="38" height="38" alt="TypeScript"/><br/><sub>TypeScript</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/go/A3A3A3" width="38" height="38" alt="Go"/><br/><sub>Go</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/rust/A3A3A3" width="38" height="38" alt="Rust"/><br/><sub>Rust</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/kotlin/A3A3A3" width="38" height="38" alt="Kotlin"/><br/><sub>Kotlin</sub></td></tr>
-<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/php/A3A3A3" width="38" height="38" alt="PHP"/><br/><sub>PHP</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/laravel/A3A3A3" width="38" height="38" alt="Laravel"/><br/><sub>Laravel</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/ruby/A3A3A3" width="38" height="38" alt="Ruby"/><br/><sub>Ruby</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/c/A3A3A3" width="38" height="38" alt="C"/><br/><sub>C</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/swift/A3A3A3" width="38" height="38" alt="Swift"/><br/><sub>Swift</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/solidity/A3A3A3" width="38" height="38" alt="Solidity"/><br/><sub>Solidity</sub></td></tr>
-</table>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/go/00ADD8" width="40" height="40" alt="Go" title="Go"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/rust/E2E8F0" width="40" height="40" alt="Rust" title="Rust"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" height="40" alt="Kotlin" title="Kotlin"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP" title="PHP"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel" title="Laravel"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ruby/CC342D" width="40" height="40" alt="Ruby" title="Ruby"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" alt="C" title="C"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/swift/F05138" width="40" height="40" alt="Swift" title="Swift"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/solidity/E2E8F0" width="40" height="40" alt="Solidity" title="Solidity"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AI-262626?style=flat-square&labelColor=0A0A0A&color=404040" alt="AI" title="AI"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Backend-262626?style=flat-square&labelColor=0A0A0A&color=404040" alt="Backend" title="Backend"/>
 
 <br/><br/>
 
@@ -176,16 +173,8 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <sub><b>STATS &amp; TOP LANGUAGES</b></sub>
 
-<table align="center">
-<tr>
-<td align="center" valign="middle">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=A3A3A3&icon_color=A3A3A3&text_color=A3A3A3&ring_color=525252&rank_icon=github&include_all_commits=true&count_private=true" />
-</td>
-<td align="center" valign="middle">
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=A3A3A3&text_color=A3A3A3&hide=html,css" />
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=A3A3A3&icon_color=A3A3A3&text_color=A3A3A3&ring_color=525252&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=A3A3A3&text_color=A3A3A3&hide=html,css" />
 
 <sub><b>CONTRIBUTION STREAK</b></sub>
 
@@ -195,26 +184,12 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <sub><b>CODING HABITS</b></sub>
 
-<table align="center">
-<tr>
-<td align="center">
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyuuXzry&theme=github_dark" />
-</td>
-<td align="center">
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyuuXzry&theme=github_dark&utcOffset=7" />
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyuuXzry&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyuuXzry&theme=github_dark&utcOffset=7" />
 
 <sub><b>CONTRIBUTION ACTIVITY</b></sub>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kyuuXzry&bg_color=0A0A0A&color=A3A3A3&line=525252&point=FAFAFA&area=true&area_color=404040&hide_border=true&custom_title=Contribution%20Graph" />
-
-<br/><br/>
-
-<sub><b>TROPHIES</b></sub>
-
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=kyuuXzry&theme=chalk&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kyuuXzry&theme=github-dark&bg_color=0A0A0A&color=A3A3A3&line=737373&point=FAFAFA&hide_border=true" />
 
 <br/><br/>
 
