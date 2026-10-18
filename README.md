@@ -113,57 +113,35 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 <h2><img src="https://api.iconify.design/lucide:wrench.svg?color=%238FA9CC" width="26" align="center"/>&nbsp;Tech Stack</h2>
 
 <sub><b>LANGUAGES &amp; RUNTIME</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-3E5C8A?style=for-the-badge&logo=javascript&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Node.js-3E5C8A?style=for-the-badge&logo=nodedotjs&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Python-3E5C8A?style=for-the-badge&logo=python&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/HTML5-3E5C8A?style=for-the-badge&logo=html5&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/CSS3-3E5C8A?style=for-the-badge&logo=css3&logoColor=E2E8F0&labelColor=0F172A"/>
 
-<br/><br/>
+<table align="center">
+<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" height="38" alt="JavaScript"/><br/><sub>JavaScript</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="38" height="38" alt="Node.js"/><br/><sub>Node.js</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/python/3776AB" width="38" height="38" alt="Python"/><br/><sub>Python</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/html5/E34F26" width="38" height="38" alt="HTML5"/><br/><sub>HTML5</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/css3/1572B6" width="38" height="38" alt="CSS3"/><br/><sub>CSS3</sub></td></tr>
+</table>
 
 <sub><b>SCRAPING &amp; DEVELOPMENT</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Puppeteer-3E5C8A?style=for-the-badge&logo=puppeteer&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Playwright-3E5C8A?style=for-the-badge&logo=playwright&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Cheerio-3E5C8A?style=for-the-badge&logo=cheerio&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Axios-3E5C8A?style=for-the-badge&logo=axios&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/REST%20API-3E5C8A?style=for-the-badge&logo=fastapi&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/JSON-3E5C8A?style=for-the-badge&logo=json&logoColor=E2E8F0&labelColor=0F172A"/>
 
-<br/><br/>
+<table align="center">
+<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="38" height="38" alt="Puppeteer"/><br/><sub>Puppeteer</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/playwright/2EAD33" width="38" height="38" alt="Playwright"/><br/><sub>Playwright</sub></td><td align="center" width="90"><img src="https://api.iconify.design/lucide:file-code-2.svg?color=%238FA9CC" width="38" height="38" alt="Cheerio"/><br/><sub>Cheerio</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/axios/7C5CFF" width="38" height="38" alt="Axios"/><br/><sub>Axios</sub></td><td align="center" width="90"><img src="https://api.iconify.design/lucide:webhook.svg?color=%238FA9CC" width="38" height="38" alt="REST API"/><br/><sub>REST API</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/json/E2E8F0" width="38" height="38" alt="JSON"/><br/><sub>JSON</sub></td></tr>
+</table>
 
 <sub><b>BOT &amp; AUTOMATION</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Baileys-3E5C8A?style=for-the-badge&logo=whatsapp&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Telegram-3E5C8A?style=for-the-badge&logo=telegram&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Termux-3E5C8A?style=for-the-badge&logo=termux&logoColor=E2E8F0&labelColor=0F172A"/>
 
-<br/><br/>
+<table align="center">
+<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="38" height="38" alt="Baileys"/><br/><sub>Baileys</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="38" height="38" alt="Telegram"/><br/><sub>Telegram</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/termux/E2E8F0" width="38" height="38" alt="Termux"/><br/><sub>Termux</sub></td></tr>
+</table>
 
 <sub><b>TOOLS &amp; PLATFORMS</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Git-3E5C8A?style=for-the-badge&logo=git&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/GitHub-3E5C8A?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Cloudflare-3E5C8A?style=for-the-badge&logo=cloudflare&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Vercel-3E5C8A?style=for-the-badge&logo=vercel&logoColor=E2E8F0&labelColor=0F172A"/>
 
-<br/><br/>
+<table align="center">
+<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="38" height="38" alt="Git"/><br/><sub>Git</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/github/E2E8F0" width="38" height="38" alt="GitHub"/><br/><sub>GitHub</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="38" height="38" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/vercel/E2E8F0" width="38" height="38" alt="Vercel"/><br/><sub>Vercel</sub></td></tr>
+</table>
 
 <sub><b>LEARNING NEXT</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/AI-1E3354?style=for-the-badge&logo=openai&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Backend-1E3354?style=for-the-badge&logo=nodedotjs&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/TypeScript-1E3354?style=for-the-badge&logo=typescript&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Go-1E3354?style=for-the-badge&logo=go&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Rust-1E3354?style=for-the-badge&logo=rust&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Kotlin-1E3354?style=for-the-badge&logo=kotlin&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/PHP-1E3354?style=for-the-badge&logo=php&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Laravel-1E3354?style=for-the-badge&logo=laravel&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Ruby-1E3354?style=for-the-badge&logo=ruby&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/C-1E3354?style=for-the-badge&logo=c&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Swift-1E3354?style=for-the-badge&logo=swift&logoColor=E2E8F0&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Solidity-1E3354?style=for-the-badge&logo=solidity&logoColor=E2E8F0&labelColor=0F172A"/>
+
+<table align="center">
+<tr><td align="center" width="90"><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%238FA9CC" width="38" height="38" alt="AI"/><br/><sub>AI</sub></td><td align="center" width="90"><img src="https://api.iconify.design/lucide:server.svg?color=%238FA9CC" width="38" height="38" alt="Backend"/><br/><sub>Backend</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="38" height="38" alt="TypeScript"/><br/><sub>TypeScript</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/go/00ADD8" width="38" height="38" alt="Go"/><br/><sub>Go</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/rust/E2E8F0" width="38" height="38" alt="Rust"/><br/><sub>Rust</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="38" height="38" alt="Kotlin"/><br/><sub>Kotlin</sub></td></tr>
+<tr><td align="center" width="90"><img src="https://cdn.simpleicons.org/php/777BB4" width="38" height="38" alt="PHP"/><br/><sub>PHP</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="38" height="38" alt="Laravel"/><br/><sub>Laravel</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/ruby/CC342D" width="38" height="38" alt="Ruby"/><br/><sub>Ruby</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="38" height="38" alt="C"/><br/><sub>C</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/swift/F05138" width="38" height="38" alt="Swift"/><br/><sub>Swift</sub></td><td align="center" width="90"><img src="https://cdn.simpleicons.org/solidity/E2E8F0" width="38" height="38" alt="Solidity"/><br/><sub>Solidity</sub></td></tr>
+</table>
 
 <br/><br/>
 
