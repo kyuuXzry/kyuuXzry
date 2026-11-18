@@ -1,26 +1,26 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0A,55:262626,100:525252&height=260&section=header&text=PADUKA%20KYUU&fontSize=58&fontColor=FAFAFA&fontAlignY=40&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descColor=A3A3A3&descAlignY=62&animation=twinkling" width="100%" alt="Paduka Kyuu Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0A,55:262626,100:525252&height=260&section=header&text=PADUKA%20KYUU&fontSize=58&fontColor=FAFAFA&fontAlignY=40&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descColor=A3A3A3&descAlignY=62&animation=twinkling" width="100%" alt="Paduka Kyuu"/>
 
 <a href="https://github.com/kyuuXzry">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=800&color=A3A3A3&center=true&vCenter=true&width=700&height=45&lines=Web+Scraping+%26+Data+Extraction;REST+API+Development;UI%2FUX+%26+Full-Stack+Development;WhatsApp+%26+Telegram+Bot+Automation;Build+something+useful.+Make+it+better." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=800&color=A3A3A3&center=true&vCenter=true&width=700&height=45&lines=Web+Scraping+%26+Data+Extraction;REST+API+Development;UI%2FUX+%26+Full-Stack+Development;WhatsApp+%26+Telegram+Bot+Automation;Build+something+useful.+Make+it+better." alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20BUILD-404040?style=for-the-badge&logo=statuspage&logoColor=FAFAFA&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/BASED%20IN-BANTEN%2C%20ID-525252?style=for-the-badge&logo=googlemaps&logoColor=FAFAFA&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/LEARNING-AI%20%2B%20BACKEND-525252?style=for-the-badge&logo=openai&logoColor=FAFAFA&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20BUILD-404040?style=for-the-badge&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/BASED%20IN-BANTEN%2C%20ID-525252?style=for-the-badge&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/LEARNING-AI%20%2B%20BACKEND-525252?style=for-the-badge&labelColor=0A0A0A"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/kyuuXzry">
-  <img src="https://img.shields.io/badge/GitHub-kyuuXzry-404040?style=for-the-badge&logo=github&logoColor=FAFAFA&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/GITHUB-kyuuXzry-404040?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=kyuuXzry&style=for-the-badge&color=404040&labelColor=0A0A0A&label=PROFILE+VIEWS"/>
 <a href="https://github.com/kyuuXzry?tab=followers">
-  <img src="https://img.shields.io/github/followers/kyuuXzry?style=for-the-badge&color=404040&labelColor=0A0A0A&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/followers/kyuuXzry?style=for-the-badge&color=404040&labelColor=0A0A0A&label=FOLLOWERS&logo=github"/>
 </a>
 
 <br/><br/>
@@ -42,6 +42,7 @@ const kyuu = {
     name: "Paduka Kyuu",
     role: "Developer",
     location: "Banten, Indonesia",
+
     focus: [
         "Web Scraping",
         "REST API",
@@ -49,7 +50,12 @@ const kyuu = {
         "Full-Stack Development",
         "Automation"
     ],
-    currentlyLearning: ["AI", "Backend Development"],
+
+    currentlyLearning: [
+        "AI",
+        "Backend Development"
+    ],
+
     motto: "Build something useful. Make it better."
 };
 ```
@@ -66,9 +72,9 @@ const kyuu = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/01-Web%20Scraping-404040?style=for-the-badge" alt="Web Scraping"/>
+<img src="https://img.shields.io/badge/01-WEB%20SCRAPING-404040?style=for-the-badge" alt="Web Scraping"/>
 
-**Web Scraping**
+### Web Scraping
 
 Extracting and processing website data using automated tools and scraping techniques.
 
@@ -77,7 +83,7 @@ Extracting and processing website data using automated tools and scraping techni
 
 <img src="https://img.shields.io/badge/02-REST%20API-404040?style=for-the-badge" alt="REST API"/>
 
-**REST API**
+### REST API
 
 Building API services, handling requests, processing responses, and connecting applications.
 
@@ -86,18 +92,18 @@ Building API services, handling requests, processing responses, and connecting a
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/03-UI%2FUX%20Design-404040?style=for-the-badge" alt="UI UX Design"/>
+<img src="https://img.shields.io/badge/03-UI%2FUX%20DESIGN-404040?style=for-the-badge" alt="UI UX Design"/>
 
-**UI/UX & Web Design**
+### UI/UX & Web Design
 
 Creating clean, responsive interfaces with a focus on usability and performance.
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/04-Automation-404040?style=for-the-badge" alt="Automation"/>
+<img src="https://img.shields.io/badge/04-AUTOMATION-404040?style=for-the-badge" alt="Automation"/>
 
-**Automation**
+### Automation
 
 Developing automation tools and WhatsApp/Telegram integrations to simplify repetitive tasks.
 
@@ -115,49 +121,49 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <br/>
 
-<sub><b>LANGUAGES &amp; RUNTIME</b></sub>
+<sub><b>LANGUAGES & RUNTIME</b></sub>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" alt="Node.js" title="Node.js"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" title="Python"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css/1572B6" width="40" height="40" alt="CSS" title="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FFFFFF"/>
 
 <br/><br/><br/>
 
-<sub><b>SCRAPING &amp; DEVELOPMENT</b></sub>
+<sub><b>SCRAPING & DEVELOPMENT</b></sub>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="40" height="40" alt="Puppeteer" title="Puppeteer"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/axios/5A29E4" width="40" height="40" alt="Axios" title="Axios"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/json/FAFAFA" width="40" height="40" alt="JSON" title="JSON"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/REST_API-404040?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="REST API"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" width="40" height="40" alt="Playwright" title="Playwright"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Cheerio-E88C1F?style=for-the-badge" height="28" alt="Cheerio"/>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JSON-404040?style=for-the-badge&logo=json&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/REST_API-404040?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Cheerio-E88C1F?style=for-the-badge&logoColor=FFFFFF"/>
 
 <br/><br/><br/>
 
-<sub><b>BOT &amp; AUTOMATION</b></sub>
+<sub><b>BOT & AUTOMATION</b></sub>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" title="WhatsApp"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram" title="Telegram"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white" height="28" alt="Termux"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF"/>
 
 <br/><br/><br/>
 
-<sub><b>TOOLS &amp; PLATFORMS</b></sub>
+<sub><b>TOOLS & PLATFORMS</b></sub>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" title="Git"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/FAFAFA" width="40" height="40" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" alt="Cloudflare" title="Cloudflare"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/FAFAFA" width="40" height="40" alt="Vercel" title="Vercel"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 
 <br/><br/><br/>
 
@@ -165,21 +171,21 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/go/00ADD8" width="40" height="40" alt="Go" title="Go"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/rust/FAFAFA" width="40" height="40" alt="Rust" title="Rust"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" height="40" alt="Kotlin" title="Kotlin"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP" title="PHP"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel" title="Laravel"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ruby/CC342D" width="40" height="40" alt="Ruby" title="Ruby"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" alt="C" title="C"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/swift/F05138" width="40" height="40" alt="Swift" title="Swift"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/solidity/FAFAFA" width="40" height="40" alt="Solidity" title="Solidity"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Rust-404040?style=for-the-badge&logo=rust&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Solidity-404040?style=for-the-badge&logo=solidity&logoColor=FFFFFF"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI-Learning-A78BFA?style=for-the-badge&logo=openai&logoColor=white" alt="AI Learning"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Backend-Development-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend Development"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Learning-A78BFA?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Backend-Development-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
 
 <br/><br/>
 
@@ -188,22 +194,23 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 <h2>▣ My Repositories</h2>
 
 <a href="https://github.com/kyuuXzry?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&width=600&height=35&lines=Semua+project+gue+ada+di+sini;Scraper%2C+API%2C+Bot%2C+dan+lainnya;Klik+tombol+di+bawah" alt="Repository typing"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/kyuuXzry?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-404040?style=for-the-badge&logo=github&logoColor=FAFAFA&labelColor=0A0A0A" alt="Explore Repositories"/>
-</a>
-<a href="https://github.com/kyuuXzry?tab=stars">
-  <img src="https://img.shields.io/badge/STARRED%20REPOS-525252?style=for-the-badge&logo=github&logoColor=FAFAFA&labelColor=0A0A0A" alt="Starred Repositories"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&width=600&height=35&lines=Explore+my+projects;Scraper%2C+API%2C+Bot%2C+and+more;Building+ideas+into+something+real" alt="Repository Typing"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/kyuuXzry?tab=repositories">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyuuXzry&theme=github_dark" alt="Repository Languages"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-404040?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A0A" alt="Explore Repositories"/>
+</a>
+
+<a href="https://github.com/kyuuXzry?tab=stars">
+<img src="https://img.shields.io/badge/STARRED%20REPOSITORIES-525252?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A0A" alt="Starred Repositories"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/kyuuXzry?tab=repositories">
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyuuXzry&theme=github_dark" alt="Repository Languages"/>
 </a>
 
 <br/><br/>
@@ -214,15 +221,15 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <br/>
 
-<sub><b>STATS &amp; TOP LANGUAGES</b></sub>
+<sub><b>STATS & TOP LANGUAGES</b></sub>
 
 <br/><br/>
 
 <a href="https://github.com/kyuuXzry">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=A3A3A3&icon_color=A3A3A3&text_color=A3A3A3&ring_color=525252&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyuuXzry&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=A3A3A3&icon_color=A3A3A3&text_color=A3A3A3&ring_color=525252&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/kyuuXzry">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=A3A3A3&text_color=A3A3A3&hide=html,css" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuXzry&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=A3A3A3&text_color=A3A3A3&hide=html,css" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -240,10 +247,10 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 <br/><br/>
 
 <a href="https://github.com/kyuuXzry">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyuuXzry&theme=github_dark" alt="Top Languages by Commit"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyuuXzry&theme=github_dark" alt="Most Commit Language"/>
 </a>
 <a href="https://github.com/kyuuXzry">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyuuXzry&theme=github_dark&utcOffset=7" alt="Commits by Hour"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyuuXzry&theme=github_dark&utcOffset=7" alt="Productive Time"/>
 </a>
 
 <br/><br/>
@@ -252,8 +259,8 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 
 <br/><br/>
 
-<a href="https://github.com/kyuuXzry">
-  <img width="96%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=kyuuXzry&bg_color=0A0A0A&color=A3A3A3&line=737373&point=FAFAFA&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+<a href="https://github.com/kyuuXzry/">
+<img src="https://img.shields.io/badge/VIEW%20CONTRIBUTION%20ACTIVITY-404040?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A0A" alt="View Contribution Activity"/>
 </a>
 
 <br/><br/>
@@ -265,23 +272,23 @@ Developing automation tools and WhatsApp/Telegram integrations to simplify repet
 <br/>
 
 <a href="https://kyuudev.my.id">
-  <img src="https://img.shields.io/badge/WEBSITE-kyuudev.my.id-404040?style=for-the-badge&logo=googlechrome&logoColor=FAFAFA&labelColor=0A0A0A" alt="Website"/>
+<img src="https://img.shields.io/badge/WEBSITE-kyuudev.my.id-404040?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=0A0A0A" alt="Website"/>
 </a>
 
 <a href="https://wa.me/628567126744">
-  <img src="https://img.shields.io/badge/WHATSAPP-CONTACT-404040?style=for-the-badge&logo=whatsapp&logoColor=FAFAFA&labelColor=0A0A0A" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/WHATSAPP-CONTACT-404040?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=0A0A0A" alt="WhatsApp"/>
 </a>
 
 <a href="https://instagram.com/rissxzry_">
-  <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-404040?style=for-the-badge&logo=instagram&logoColor=FAFAFA&labelColor=0A0A0A" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-404040?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=0A0A0A" alt="Instagram"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rizki-handayani-22068538b">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-404040?style=for-the-badge&logo=linkedin&logoColor=FAFAFA&labelColor=0A0A0A" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-404040?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A0A0A" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:rzkhandayni.id@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-404040?style=for-the-badge&logo=gmail&logoColor=FAFAFA&labelColor=0A0A0A" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-404040?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0A0A0A" alt="Email"/>
 </a>
 
 <br/><br/>
