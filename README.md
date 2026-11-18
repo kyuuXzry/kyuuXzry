@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0A,55:262626,100:525252&height=260&section=header&text=PADUKA%20KYUU&fontSize=58&fontColor=FAFAFA&fontAlignY=40&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descColor=A3A3A3&descAlignY=62&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/kyuuXzry">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=800&color=A3A3A3&center=&vCenter=true&width=700&height=45&lines=Web+Scraping+%26+Data+Extraction;REST+API+Development;UI%2FUX+%26+Full-Stack+Development;WhatsApp+%26+Telegram+Bot+Automation;Build+something+useful.+Make+it+better." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=800&color=A3A3A3&center=true&vCenter=true&width=700&height=45&lines=Web+Scraping+%26+Data+Extraction;REST+API+Development;UI%2FUX+%26+Full-Stack+Development;WhatsApp+%26+Telegram+Bot+Automation;Build+something+useful.+Make+it+better." alt="Typing SVG"/>
 </a>
 
 <br/>
